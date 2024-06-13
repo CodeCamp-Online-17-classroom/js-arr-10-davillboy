@@ -5,3 +5,4 @@
 ```JavaScript
 let fish = ['angel', 'clown', 'mandarin', 'sturgeon'];
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
